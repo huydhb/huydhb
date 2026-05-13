@@ -46,5 +46,12 @@ Always learning, always building. Dedicated to exploring modern web technologies
 ⭐ *It's just be life.* 
 
 ---
+</td>
+<td align="center" width="40%">
+
+<img src="https://github.com/user-attachments/assets/430d644e-4b85-4483-8946-a30be8b20b83" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+
+</td>
   </tr>
 </table>
+
